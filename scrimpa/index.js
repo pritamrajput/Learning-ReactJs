@@ -74,6 +74,7 @@ const navbar = (
             <li>Pricing</li>
             <li>About</li>
             <li>Contact</li>
+            <li>Learnt about props in Reactjs</li>
         </ul>
     </nav>
 )
